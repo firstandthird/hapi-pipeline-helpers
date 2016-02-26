@@ -3,7 +3,7 @@
   "description": "Hapi Pipeline Helpers",
   "homepage": "https://github.com/firstandthird/hapi-pipeline-helpers",
   "author": "First+Third",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/firstandthird/hapi-pipeline-helpers.git"
