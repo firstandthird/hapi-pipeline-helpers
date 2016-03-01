@@ -7,6 +7,7 @@ module.exports = {
   },
   scripts: {
     include: require('./lib/js-include'),
+    browserify: require('./lib/browserify'),
     uglify: require('./lib/uglify')
   }
 };
